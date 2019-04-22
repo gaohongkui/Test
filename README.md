@@ -13,7 +13,7 @@
 2. 第二项.
 
 >这是引用
-(HR)
+-----
 ## How to use ?
 
 In simple terms, follow the steps:
